@@ -1,3 +1,1 @@
-![profile]
-
-[profile]: https://github-readme-stats.vercel.app/api?username=SAURABH-777&&theme=tokyonight&show_icons=true
+[![github stats](https://github-readme-stats.vercel.app/api?username=SAURABH-777)](https://github.com/SAURABH-777) [![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SAURABH-777&layout=compact)](https://github.com/SAURABH-777) I prefer writing snippets of code than a full-blown project ~~because I am lazy~~.
